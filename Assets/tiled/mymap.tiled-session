@@ -1,0 +1,12 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "last.imagePath": "C:/Users/48503770/Documents/comp1151prac-tilemapgame-singleoldprof/Assets/tiled",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "tileset.lastUsedFormat": "tsx"
+}
